@@ -28,4 +28,4 @@ const bubbleMaker = () => {
     bubble.remove();
   }, 8000);
 };
-setInterval(bubbleMaker, 700);
+setInterval(bubbleMaker, 1000);
